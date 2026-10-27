@@ -1,0 +1,108 @@
+{
+  "characters": [
+    {
+      "name": "エリアス",
+      "type": "character",
+      "level": 6,
+      "pp": 700,
+      "gp": 500,
+      "attribute": "闇",
+      "race": "森精"
+    },
+    {
+      "name": "リゼル",
+      "type": "character",
+      "level": 7,
+      "pp": 700,
+      "gp": 700,
+      "attribute": "闇",
+      "race": "血鬼"
+    },
+    {
+      "name": "アスロン",
+      "type": "character",
+      "level": 4,
+      "pp": 400,
+      "gp": 400,
+      "attribute": "闇",
+      "race": "悪魔"
+    },
+    {
+      "name": "リーヴェン",
+      "type": "character",
+      "level": 10,
+      "pp": 1200,
+      "gp": 800,
+      "attribute": "水",
+      "race": "神聖"
+    },
+    {
+      "name": "セル",
+      "type": "character",
+      "level": 5,
+      "pp": 500,
+      "gp": 500,
+      "attribute": "無",
+      "race": "血鬼"
+    },
+    {
+      "name": "ジュディ",
+      "type": "character",
+      "level": 8,
+      "pp": 1000,
+      "gp": 600,
+      "attribute": "水",
+      "race": "神聖"
+    },
+    {
+      "name": "ハットゥーシャ",
+      "type": "character",
+      "level": 3,
+      "pp": 100,
+      "gp": 500,
+      "attribute": "水",
+      "race": "氷結"
+    },
+    {
+      "name": "リロ",
+      "type": "character",
+      "level": 5,
+      "pp": 700,
+      "gp": 300,
+      "attribute": "水",
+      "race": "海精"
+    },
+    {
+      "name": "クレース",
+      "type": "character",
+      "level": 5,
+      "pp": 300,
+      "gp": 700,
+      "attribute": "光",
+      "race": "神聖"
+    }
+  ],
+  "items": [
+    {
+      "name": "回復薬",
+      "type": "item",
+      "power": 100
+    },
+    {
+      "name": "魔法の石",
+      "type": "item",
+      "power": 200
+    },
+    {
+      "name": "カード",
+      "type": "item",
+      "power": 200
+    },
+    {
+      "name": "幸せの木の実",
+      "type": "item",
+      "power": 200
+    }
+  ]
+}
+
